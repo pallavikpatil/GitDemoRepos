@@ -4,3 +4,4 @@ from django.db import models
 class Library:
     print("Commit Successful")
     print("-------")
+    print("Pull successful")
